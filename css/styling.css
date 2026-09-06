@@ -60,6 +60,7 @@ h3 {
   text-align: center;
   text-decoration: none;
   /* ^^ fjerner understregning */
+  -webkit-tap-highlight-color: transparent;
 }
 
 .menu a:hover {
@@ -71,10 +72,6 @@ h3 {
   text-align: center;
   margin-left: 3rem;
   margin-right: 3rem;
-}
-
-.menu-item, .menu-item a {
-  -webkit-tap-highlight-color: transparent;
 }
 
 /* ----------------------------- */
