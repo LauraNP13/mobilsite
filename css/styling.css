@@ -73,6 +73,10 @@ h3 {
   margin-right: 3rem;
 }
 
+.menu-item, .menu-item a {
+  -webkit-tap-highlight-color: transparent;
+}
+
 /* ----------------------------- */
 
 a {
