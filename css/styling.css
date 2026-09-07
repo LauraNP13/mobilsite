@@ -61,6 +61,7 @@ h3 {
   text-decoration: none;
   /* ^^ fjerner understregning */
   -webkit-tap-highlight-color: transparent;
+  /* ^^ ikke noget vi har lært.. i mobilversion; fjerner blå tags ved tryk på menupunkterne */
 }
 
 .menu a:hover {
