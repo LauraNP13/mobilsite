@@ -120,18 +120,18 @@ p {
 
 /* ----------------------------- */
 
-.min_bærbar {
+.min_pc {
   font-family: Arial, Helvetica, sans-serif;
   font-size: 15.5px;
   margin-top: 2rem;
 }
 
-.min_bærbar dt {
+.min_pc dt {
   color: rgb(216, 69, 219);
   padding-bottom: 0.2rem;
 }
 
-.min_bærbar dd {
+.min_pc dd {
   margin-left: 0.5rem;
   padding-bottom: 0.8rem;
   color: rgb(161, 128, 225);
@@ -140,8 +140,7 @@ p {
 /* ----------------------------- */
 
 img {
-  width: 100%;
-  max-width: 600px;
+  max-width: 100%;
   display: block;
   margin-left: auto;
   margin-right: auto;
